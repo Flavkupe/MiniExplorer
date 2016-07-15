@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelGeneration\Door.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Parts\NameTag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelGeneration\Area.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\LevelGeneration\Door.cs" Line="28" Column="4" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="57" Column="1" />
+      <File FileName="Assets\Scripts\LevelGeneration\Location.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelGeneration\IHasLocation.cs" Line="4" Column="23" />
+      <File FileName="Assets\Scripts\Managers\StageManager.cs" Line="4" Column="33" />
+      <File FileName="Assets\Scripts\LevelGeneration\FileLevelGenerator.cs" Line="25" Column="33" />
+      <File FileName="Assets\Scripts\Editor\CustomEditorView.cs" Line="15" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Flavio\Documents\MiniExplorer\Assets\Scripts\PlayerControl.cs" line="57" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
